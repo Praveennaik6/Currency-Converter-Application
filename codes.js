@@ -154,8 +154,8 @@ const countryList = {
     VEF: "VE",
     VND: "VN",
     VUV: "VU",
-  //   YER: "YE",
-  //   ZAR: "ZA",
-  //   ZMK: "ZM",
-  //   ZWD: "ZW",
-  // };
+    YER: "YE",
+    ZAR: "ZA",
+    ZMK: "ZM",
+    ZWD: "ZW",
+  };
